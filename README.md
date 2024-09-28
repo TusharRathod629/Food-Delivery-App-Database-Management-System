@@ -6,6 +6,9 @@ Customers interact with the restaurant directly using an app that allows them to
 Fast deliveries with the highest levels of customer satisfaction are the restaurant’s and application’s main priorities. 
 The app registers customer feedback for every order so it can focus on customers, restaurants, and deliveries for quality purposes.
 
+Entity Relationship Diagram
+
+![image](https://github.com/user-attachments/assets/484111d9-f78c-4b48-959c-e9994360e966)
 
 • Designed and implemented PostgreSQL and SQL Server databases for an Online Food Delivery Database project.
 
